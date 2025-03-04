@@ -35,7 +35,7 @@
 		"@release-it/conventional-changelog": "10.0.0",
 		"@types/eslint__js": "8.42.3",
 		"@types/node": "22.13.0",
-		"@vitest/coverage-v8": "2.1.8",
+		"@vitest/coverage-v8": "3.0.7",
 		"@vitest/eslint-plugin": "1.1.14",
 		"console-fail-test": "0.5.0",
 		"eslint": "9.21.0",
@@ -51,7 +51,7 @@
 		"tsup": "8.3.5",
 		"typescript": "5.7.2",
 		"typescript-eslint": "8.25.0",
-		"vitest": "2.1.8"
+		"vitest": "3.0.7"
 	},
 	"packageManager": "pnpm@10.4.0+sha512.6b849d0787d97f8f4e1f03a9b8ff8f038e79e153d6f11ae539ae7c435ff9e796df6a862c991502695c7f9e8fac8aeafc1ac5a8dab47e36148d183832d886dd52",
 	"engines": {
